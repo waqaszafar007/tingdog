@@ -204,9 +204,9 @@ p{
 }
 @media screen and (max-width: 733px){
 h2{
-  font-size: 2rem;
+  font-size: 25px;
 }
 .cta-h3{
-    font-size: 2rem;
+    font-size: 25px;
 }
 }
